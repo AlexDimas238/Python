@@ -13,7 +13,7 @@ else:
 '''
 
 #Forma Simplificada
-valor = int(input('Digite o Valor:'))
+valor = int(input('Digite o Valor:'))   
 
 if 20 <= valor < 40:
   print('Produto foi aceito')
