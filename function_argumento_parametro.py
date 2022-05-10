@@ -1,4 +1,5 @@
 # Functions - Criando Funções
+# DRY - Don't repeat yourself
 # DEF - Definition - defina a criação de uma function
 
 def boas_vindas(nome, quantidade):
@@ -7,3 +8,4 @@ def boas_vindas(nome, quantidade):
 
 
 boas_vindas(input('Digite seu nome: '), 7)
+    

@@ -1,4 +1,5 @@
 # Functions - Criando Funções
+# DRY - Don't repeat yourself
 # DEF - Definition - defina a criação de uma function
 
 def somar_dois_numeros():
